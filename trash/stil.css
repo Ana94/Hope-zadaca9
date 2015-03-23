@@ -1,0 +1,154 @@
+﻿/**ovo stil sa svim css elementima**/
+
+body{
+	margin: 85px 35px;
+	background-image: url("../slike/nebo2.jpg");
+	background-color: black;
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-position: center;
+	color: white;
+	}
+	
+
+
+.home{
+	position: fixed;
+	top: 2%;
+	left: 15%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.price{
+	position: fixed;
+	top: 2%;
+	left: 30%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.slike{
+	position: fixed;
+	top: 2%;
+	left: 45%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.video{
+	position: fixed;
+	top: 2%;
+	left: 60%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.citati{
+	position: fixed;
+	top: 2%;
+	left: 75%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.pozadina{
+	width: 100%;
+	left:0;
+	position: fixed;
+	top:1%;
+	height: 6%;
+	background-color: black;
+	opacity: 0.9;
+	}
+	
+.trash{
+	position: fixed;
+	right: 2%;
+	bottom: 2%;
+	width: 2%;
+	height: auto;
+	overflow: scroll;
+	}
+	
+h2{
+	direction: ltr;
+	letter-spacing: 2px;
+	line-height: 2px;
+	text-decoration: overline;
+	text-indent: 2px;
+	text-shadow: black;
+	text-transform:none;
+	vertical-align:text-top;
+	white-space: 2px;
+	word-spacing: 2px;
+	unicode-bidi: bidi-override;
+	visibility: visible;
+	}
+
+table{
+	border-color: yellow;
+border-spacing: 2px 2px;
+caption-side: top;
+empty-cells: hide;
+table-layout: fixed;
+border-style: ridge;
+border-top: 3px ridge yellow;
+border-right: 3px ridge yellow;
+border-bottom: 3px ridge yellow;
+border-left: 3px ridge yellow;
+border-top-color: yellow;
+border-right-color: yellow;
+border-bottom-color: yellow;
+border-left-color: yellow;
+border-top-style: ridge;
+border-right-style: ridge;
+border-bottom-style: ridge;
+border-left-style: ridge;
+border-top-width: 2px;
+border-right-width: 2px;
+border-bottom-width: 2px;
+border-left-width: 2px;
+border-width: 2px;
+outline-color: orange;
+outline-style: groove;
+outline-width:4px;
+}
+	
+.svielementi{
+clear:both;
+clip: rect(0px,200px,200px,0px);
+counter-reset: section;
+counter-increment: section;
+cursor:auto;
+display: inline;
+}
+
+ul {list-style-type: square;}
+ol {list-style-type: upper-roman;}
+
+
+p{
+orphans: 10;
+text-indent: 100px;
+text-transform: uppercase;
+}
+
+.nevazno{
+	max-height: 100px;
+	max-width: 100px;
+	min-height: 20px;
+	min-width: 20px;
+}
+
+q {
+    quotes: "«" "»";
+}
+
+.sve{
+page-break-after: auto;
+page-break-before: auto;
+page-break-inside: auto;
+}
+

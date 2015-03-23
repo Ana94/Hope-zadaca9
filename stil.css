@@ -1,0 +1,81 @@
+/**ovo je stil indexa**/
+
+body{
+	background-image: url("slike/nebo1.jpg");
+	background-color: black;
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	}
+	
+.logo{
+	position:absolute;
+	left: 2%;
+	bottom: 7%;
+	}
+	
+.price{
+	position:absolute;
+	left: 20%;
+	top: 5%;
+	width: 10%;
+	height: auto;
+	}
+	
+.slike{
+	position:absolute;
+	right: 10%;
+	top: 15%;
+	width: 10%;
+	height: auto;
+	transform: rotate(30deg);
+	}
+	
+.video{
+	position:absolute;
+	right: 45%;
+	top: 12%;
+	width: 10%;
+	height: auto;
+	transform: rotate(-30deg);
+	}
+	
+.citati{
+	position:absolute;
+	right: 24.3%;
+	top: 38.5%;
+	width: 8%;
+	height: auto;
+	transform: rotate(10deg)
+	}
+	
+h3{
+	position:absolute;
+	left: 3%;
+	bottom: 0.5%;
+	color: #5979A0;
+	text-decoration: overline;
+	}
+
+.trash{
+	position: absolute;
+	right: 2%;
+	bottom: 2%;
+	width: 2%;
+	height: auto;
+	}
+	
+.face{
+	position: absolute;
+	top: 35%;
+	left: 1%;
+	height: 28%;
+	width: auto;
+	opacity: 0.7;
+	}
+	
+.face:hover{
+	opacity: 1;
+	}
+	
+	

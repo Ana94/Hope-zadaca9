@@ -1,0 +1,107 @@
+/**Ovo je stil citata**/
+
+body{
+	margin: 100px 180px;
+	background-image: url("../slike/nebo2.jpg");
+	background-color: black;
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	}
+	
+h1{
+	font-family: georgia;
+	font-size: 45px;
+	text-align: center;
+	color: white;
+	}
+	
+h3{
+	font-family: georgia;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	}
+
+	
+.home{
+	position: fixed;
+	top: 2%;
+	left: 15%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.price{
+	position: fixed;
+	top: 2%;
+	left: 30%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.slike{
+	position: fixed;
+	top: 2%;
+	left: 45%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.video{
+	position: fixed;
+	top: 2%;
+	left: 60%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.citati{
+	position: fixed;
+	top: 2%;
+	left: 75%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.pozadina{
+	width: 100%;
+	left:0;
+	position: fixed;
+	top:1%;
+	height: 6%;
+	background-color: black;
+	opacity: 0.9;
+	}
+	
+pre{
+	color:white;
+	font-family: georgia;
+	font-size: 16px;
+	border: dotted #F7D358;
+	padding: 10px;
+	text-align: center;
+	float: right;
+	}
+	
+.left{
+	float: left;
+	}
+	
+.pic{
+	width: 50%;
+	height: auto;
+	padding: 20px;
+	padding-top: 15px;
+	padding-bottom: 7px;
+	}
+	
+	
+	.trash{
+	position: fixed;
+	right: 2%;
+	bottom: 2%;
+	width: 2%;
+	height: auto;
+	}
+	

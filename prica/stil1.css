@@ -1,0 +1,139 @@
+﻿/**Ovo je stil od svih priča**/
+
+body{
+	margin: 100px 350px;
+	margin-left: 50px;
+	background-image: url("../slike/nebo2.jpg");
+	background-color: black;
+	background-size: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	color: white;
+	font-family: georgia;
+	}
+	
+.pozadina{
+	background-color: black;
+	opacity: 0.5;
+	}
+	
+.home{
+	position: fixed;
+	top: 2%;
+	left: 15%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.price{
+	position: fixed;
+	top: 2%;
+	left: 30%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.slike{
+	position: fixed;
+	top: 2%;
+	left: 45%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.video{
+	position: fixed;
+	top: 2%;
+	left: 60%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.citati{
+	position: fixed;
+	top: 2%;
+	left: 75%;
+	width: 8%;
+	height: 4%;
+	}
+	
+.undo{
+	position: fixed;
+	top: 2%;
+	left: 3%;
+	height: 4%;
+	width: auto;
+	}
+	
+.pozadina{
+	width: 100%;
+	left:0;
+	position: fixed;
+	top:1%;
+	height: 6%;
+	background-color: black;
+	opacity: 0.9;
+	}
+	
+h2{
+	font-family: georgia;
+	font-size: 45px;
+	text-align: center;
+	color: white;
+	}
+	
+.img{
+	width: 70%;
+	height: auto;
+	position: relative;
+	left: 18%;
+	}
+	
+.ostale{
+	position:fixed;
+	top: 35%;
+	right: 1%;
+	height: auto;
+	width: 20%;
+	}
+	
+.izb1{
+	position:fixed;
+	top: 45%;
+	right: 1%;
+	height: auto;
+	width: 20%;
+	}
+
+.izb2{
+	position:fixed;
+	top: 55%;
+	right: 1%;
+	height: auto;
+	width: 20%;
+	}
+	
+.izb3{
+	position:fixed;
+	top: 65%;
+	right: 1%;
+	height: auto;
+	width: 20%;
+	}
+	
+.izb4{
+	position:fixed;
+	top: 75%;
+	right: 1%;
+	height: auto;
+	width: 20%;
+	}
+	
+	
+.trash{
+	position: fixed;
+	right: 2%;
+	bottom: 2%;
+	width: 2%;
+	height: auto;
+	}	
