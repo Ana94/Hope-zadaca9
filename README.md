@@ -1,6 +1,10 @@
 # Hope-zadaca9
 Stranica koja će vam vratiti vjeru u ljude
 
+##Zadatak
+>Kreirati mrežno mjesto koje mora imati minimalno 30 datoteka organizirano u minimalno 12 direktorija.  S svake stranice mrežnog mjesta mora postojati poveznica na sve druge stranice na mrežnom mjestu. Minimalna zastupljenost HTML elemenata i CSS svojstava mora biti veća ili jednaka 80%. Provjeravaju se HTML elementi i CSS svojstva. Tema mrežnog mjesta je
+SLOBODNA!
+
 ##O stranici
 
 ####Tehničke stvari
